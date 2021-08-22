@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarbu69
+- 👋 Hi, I’m @69sarbu69
 - 👀 I’m interested in understanding machines.
 - 🌱 I’m currently learning Python, Java and C
 - 💞️ I’m looking to collaborate on any project
